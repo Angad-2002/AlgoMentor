@@ -23,7 +23,7 @@ Some future plans include **collaborative learning, integration with external ed
 
 ## 🏗️ Architecture
 
-![Architecture]([https://github.com/ArionDas/Google-genAI-exchange/blob/05fc7788ce7dddf5dd5e29120f999e372043c789/visuals/Architecture.png](https://github.com/Angad-2002/AlgoMentor/blob/main/visuals/Architecture.png))
+![Architecture](https://github.com/Angad-2002/AlgoMentor/blob/main/visuals/Architecture.png)
 
 ### 🔑 Key Components:
 1. **AI Chat Assistant**: Uses Socratic questioning to deepen understanding.
